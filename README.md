@@ -14,10 +14,10 @@ Setup
 -----
 
 1. Install Firebase module and Add dependency
-  Currently, firebase@2.4.2 version is stable
-
-  npm install -g rnpm
-  rnpm install firebase@2.4.2
+  
+  Currently, firebase@2.4.2 version is more stable.
+  > npm install -g rnpm
+  > rnpm install firebase@2.4.2
 
 2. Edit Firebase path
 
