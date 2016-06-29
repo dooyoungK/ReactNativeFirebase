@@ -18,7 +18,7 @@ import Login from './login';
 
 import Firebase from 'firebase';
 
-let app = new Firebase('https://sweltering-fire-6217.firebaseio.com/');
+let app = new Firebase('FIREBASE_URL');
 
 import styles from '../styles/common-styles.js';
 import login_styles from '../styles/login-styles.js';

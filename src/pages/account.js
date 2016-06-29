@@ -26,7 +26,7 @@ import styles from '../styles/common-styles.js';
 
 import Firebase from 'firebase';
 
-let app = new Firebase('https://rnfireabasepractice.firebaseio.com/');
+let app = new Firebase('FIREBASE_URL');
 
 
 export default class account extends Component {

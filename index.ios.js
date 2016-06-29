@@ -22,7 +22,7 @@ import Header from './src/components/header';
 
 import Firebase from 'firebase';
 
-let app = new Firebase('https://sweltering-fire-6217.firebaseio.com/');
+let app = new Firebase('FIREBASE_URL');
 
 import styles from './src/styles/common-styles.js';
 
