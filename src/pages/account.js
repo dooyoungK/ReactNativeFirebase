@@ -234,28 +234,17 @@ renderRow(rowData) { console.log('Account: render row');
     }
  }
 
- billsAction(rowData){
-
- }
-
 
  removeMsg(rowData){
     this.msgRef.child(rowData.id).remove();
  }
 
  showAlert(rowData){
-   let stateText;
-   if(rowData.state){
-     stateText = 'View state';
-   }else{
-     stateText = 'Add state';
-   }
     Alert.alert(
           'Delete?',
           'Message',
       [
         {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
-        {text: stateText, onPress: () => this.billsAction(rowData)},
         {text: 'Delete', onPress: () => this.removeMsg(rowData)},
       ]
 
