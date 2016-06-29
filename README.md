@@ -16,7 +16,9 @@ Setup
 1. Install Firebase module and Add dependency
   
   Currently, firebase@2.4.2 version is more stable.
+
   > npm install -g rnpm
+
   > rnpm install firebase@2.4.2
 
 2. Edit Firebase path
@@ -26,7 +28,7 @@ Setup
   Change 'FIREBASE_URL' to your Firebase server url.
 
 3. Registering
-  Enable Email & Password Authentication at the Auth page of your firebase sever before registering new account.
+  Enable 'Email & Password Authentication' at the Auth page of your firebase sever before registering new account.
 
 Screenshots
 -----
