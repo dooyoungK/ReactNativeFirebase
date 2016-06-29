@@ -9,6 +9,7 @@ Features
 * Authorization with firebase server.
 * Update/delete data to the firebase server.
 * Real-time Sync with Firebase data.
+* Log-out
 
 Setup
 -----
