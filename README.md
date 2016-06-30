@@ -33,7 +33,6 @@ Setup
 
 Screenshots
 -----
-<img src="snapshot/firebase.png" alt="alt text" width="520" height="460">
 
 
 
