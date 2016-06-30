@@ -34,7 +34,7 @@ Setup
 Screenshots
 -----
 
-<img src="snapshot/firebase.png" alt="alt text" width="520" height="450">
+<img src="snapshot/firebase_page.png" alt="alt text" width="520" height="450">
 
 <img src="snapshot/main_page.png" alt="alt text" width="270" height="480">
 
