@@ -35,8 +35,6 @@ Screenshots
 -----
 <img src="snapshot/firebase.png" alt="alt text" width="520" height="460">
 
-<img src="snapshot/main_page.png" alt="alt text" width="270" height="480">
-
 
 
 
